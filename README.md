@@ -1,3 +1,15 @@
+---
+layout: default
+title: 首页
+---
+
+# 数理逻辑项目目录
+
+- [预备知识总序](./预备知识总序.html)
+- [简史](./简史.html)
+- [数理逻辑的预备知识](./数理逻辑的预备知识.html)
+- [集合论](./集合论.html)
+- [习题参考答案](./习题答案.html)
 # mathematical-logic
 
 [](https://github.com/RuthSame/mathematical-logic/blob/main/README.md#mathematical-logic)
